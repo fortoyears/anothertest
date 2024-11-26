@@ -1,2 +1,3 @@
 # anothertest
-testonly
+#test only
+#dont use 
